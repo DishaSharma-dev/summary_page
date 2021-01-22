@@ -1,0 +1,23 @@
+.file{
+    margin-top: 70px;
+    width: 70%;
+}
+.progress-bar{
+    background-color: #d0f224;
+    color: black;
+}
+
+#img{
+    width: 80%;
+}
+td{
+    font-weight: bold;
+}
+
+/*-----Media Query---------*/
+@media screen and (max-width: 600px) {
+    .file{
+        margin-top: 5px;
+        width: 80%;
+    }
+  }
